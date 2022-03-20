@@ -1,2 +1,2 @@
-# AyrikSistemler-in-leriOlas-l-k
+# AyrikSistemlerlcinlleriOlasilik
 Kocaeli Üniversitesi Bilgisayar Mühendisliği Yüksek Lisans Dersi Ödevlerini İçermektedir.

@@ -1,2 +1,2 @@
 # AyrikSistemlerlcinlleriOlasilik
-Kocaeli Üniversitesi Bilgisayar Mühendisliği Yüksek Lisans Dersi Ödevlerini İçermektedir.
+Kocaeli Üniversitesi Bilgisayar Mühendisliği Ayrık Sistemler İçin İleri Olasılık Yüksek Lisans Dersi Ödevlerini İçermektedir.
